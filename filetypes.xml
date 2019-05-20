@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="aanative" type="PLAIN_TEXT" />
+      <mapping pattern="XGBoostRegressionModel" type="PLAIN_TEXT" />
+      <mapping ext="libsvm" type="PLAIN_TEXT" />
+      <mapping ext="data" type="PLAIN_TEXT" />
+      <mapping pattern="aa" type="XHTML" />
+    </extensionMap>
+  </component>
+</application>

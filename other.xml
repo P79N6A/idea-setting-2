@@ -1,0 +1,37 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.669598" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.79296875" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="false" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="InstalledPluginsSearchHistory" value="pluging&#10;pli" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="SettingsSearchHistory" value="plugin&#10;plug&#10;jdk&#10;maven&#10;proxy" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="SplitFileEditor.Proportion" value="0.70403147" />
+    <property name="TrendingPluginsSearchHistory" value="markdown&#10;markdown math&#10;latex&#10;jni&#10;julia" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="evlsprt3.183" value="12" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Solution&#10;/home/wenbinwei/xgboost-tdw/jvm-packages/pom.xml&#10;/home/wenbinwei/xgboost-tdw&#10;/home/wenbinwei/jarvis/old/jarvis&#10;/home/wenbinwei/xgboost-tdw/jvm-packages&#10;/home/wenbinwei/tdw-spark-common/tdw-spark-examples&#10;/home/wenbinwei/angel-tdw/angel&#10;/home/wenbinwei/angel_github/angel&#10;/home/wenbinwei/xgboost/jvm-packages&#10;/home/wenbinwei/Downloads/idea-multimarkdown.jar&#10;/home/wenbinwei/graph/java&#10;/home/wenbinwei/graph/java/pom.xml&#10;/home/wenbinwei/graph&#10;/home/wenbinwei/DecisionTree.jl&#10;/home/wenbinwei/angel&#10;/home/wenbinwei/ml/jarvis&#10;/home/wenbinwei/sona&#10;/home/wenbinwei/.m2/settings.xml&#10;/home/wenbinwei/julia-1.1.0/bin/julia&#10;/home/wenbinwei/louvian/angel" />
+    <property name="file.gist.reindex.count" value="8796" />
+    <property name="fileTypeChangedCounter" value="6" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="lastTip" value="26" />
+    <property name="mt.showStatisticsAgreement" value="true" />
+    <property name="plugins.preselection.path" value="$USER_HOME$/Downloads" />
+    <property name="project.wizard.group" value="JULIA_MODULE_TYPE" />
+    <property name="project.wizard.template" value="Julia" />
+    <property name="scala.last.updated" value="1558096474153" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
